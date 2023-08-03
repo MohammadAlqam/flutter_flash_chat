@@ -3,7 +3,7 @@
 A social chat application developed by flutter application
 
 ## App
-[Finished App](https://github.com/londonappbrewery/Images/raw/master/flash_chat_flutter_demo.gif)
+
 
 
 ## Getting Started
