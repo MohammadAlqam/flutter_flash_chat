@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "983858713207",
+    "project_id": "flas-d3367",
+    "storage_bucket": "flas-d3367.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983858713207:android:de311234204393a3466c72",
+        "android_client_info": {
+          "package_name": "com.alqam.flas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983858713207-huelubrbujhvi42k93rvfift02aaleic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDulvk8HqHdWRudwpEe32Ysr1oNR102UEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983858713207-huelubrbujhvi42k93rvfift02aaleic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
